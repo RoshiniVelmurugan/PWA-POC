@@ -1,0 +1,16 @@
+{
+    "name": "Union Bank of Switzerland web App",
+    "short_name": "Union Bank",
+    "description": "UBS Investment Bank provides corporate, institutional and wealth management clients with expert advice, innovative solutions, execution and comprehensive access to international capital markets.",
+    "icons": [
+        {
+            "src": "icons/ubs_icons.jpg",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/PWA-POC/index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
